@@ -27,6 +27,9 @@
 <a href="https://github.com/AnishBplayz/ab-scoreboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnishBplayz&repo=ab-scoreboard&theme=tokyonight" />
 </a>
+<a href="https://github.com/AnishBplayz/ab-rentals">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnishBplayz&repo=ab-rentals&theme=tokyonight" />
+</a>
 
 <br />
 <br />
