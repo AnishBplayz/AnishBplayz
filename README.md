@@ -1,6 +1,7 @@
 ## About Me
 - 👋 Hi, I’m AnishBplayz
 - 👀 FIVEM Server Developer
+- 💻 QBCore Developer Team
 - 📝 Commision Developer
 - 📫 Reach me @AnishBplayz#4854 on Discord
 
