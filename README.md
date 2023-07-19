@@ -3,7 +3,7 @@
 - 👀 FIVEM Server Developer
 - 💻 QBCore Developer Team
 - 📝 Commision Developer
-- 📫 Reach me @AnishBplayz#4854 on Discord
+- 📫 Reach me @AnishBplayz on Discord
 
 ## Stats
 
