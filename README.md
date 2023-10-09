@@ -10,7 +10,7 @@
 <a href="https://github.com/AnishBplayz"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnishBplayz&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="AnishBplayz's github stats" /></a> | <a href="https://github.com/AnishBplayz"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishBplayz&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
+## Top Repositories
 
 
 <a href="https://github.com/AnishBplayz/jim-payments">
