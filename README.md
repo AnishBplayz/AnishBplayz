@@ -1,7 +1,7 @@
 ## About Me
 - 👋 Hi, I’m AnishBplayz
-- 👀 FIVEM Server Developer
-- 💻 QBCore Developer Team
+- 👀 FIVEM/REDM Server Developer
+- 💻 Former QBCore Developer Team Member
 - 📝 Commision Developer
 - 📫 Reach me @AnishBplayz on Discord
 
