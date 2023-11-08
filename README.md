@@ -1,7 +1,7 @@
 ## About Me
 - 👋 Hi, I’m AnishBplayz
 - 👀 FIVEM/REDM Server Developer
-- 💻 Former QBCore Developer Team Member
+- 💻 QBCore Developer Team Member
 - 📝 Commision Developer
 - 📫 Reach me @AnishBplayz on Discord
 
@@ -13,8 +13,8 @@
 ## Top Repositories
 
 
-<a href="https://github.com/AnishBplayz/jim-payments">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnishBplayz&repo=jim-payments&theme=tokyonight" />
+<a href="https://github.com/AnishBplayz/ab-scoreboard-warmenu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnishBplayz&repo=ab-scoreboard-warmenu&theme=tokyonight" />
 </a>
 <a href="https://github.com/AnishBplayz/ps-hud">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnishBplayz&repo=ps-hud&theme=tokyonight" />
