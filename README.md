@@ -8,7 +8,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&size=40&pause=1000&color=F74CED&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I+am+AnishBplayz" alt="Typing SVG" align="center" /></a>
 
   <h2 align="center">About Me</h2>
-  <p align="center">Greetings! I'm AnishBplayz, a passionate FiveM/RedM developer from vibrant India. With two years of experience, I craft virtual worlds with creativity and innovation. I lead Bro Code, an organization where we drive our collective journey with these principles.</p>
+  <p align="center">Greetings! I'm Anish, a passionate FiveM/RedM developer from vibrant India. With two years of experience, I craft virtual worlds with creativity and innovation. I lead Bro Code, an organization where we drive our collective journey with these principles.</p>
 
   ---
 
