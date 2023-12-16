@@ -17,7 +17,7 @@
   <p align="center">🚀 Contributing to Indian Servers like <a href="https://discord.gg/the-legend-s-roleplay-878666249528287243">The Legends Roleplay</a> and working on personal projects</p>
   <p align="center">🤝 Open to collaborations and providing assistance where needed</p>
   <p align="center">🔧 Former Member of the QBCore Development Team</p>
-  <p align="center">🌐 Creator of Bro Code</p>
+  <p align="center">🌐 Creator of <a href="https://github.com/TeamBroCode"> Bro Code</p>
   <p align="center">📡 Connect with us on Discord: <a href="https://discord.gg/brocode"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="20" width="20" align="center"> Bro Code Discord</a></p>
 
   ---
