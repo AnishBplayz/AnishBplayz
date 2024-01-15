@@ -14,10 +14,10 @@
 
   <h3 align="center">Current Projects</h3>
   
-  <p align="center">🚀 Contributing to Indian Servers like <a href="https://discord.gg/the-legend-s-roleplay-878666249528287243">The Legends Roleplay</a> and working on personal projects</p>
+  <p align="center">🚀 Working on personal projects and making contributions to popular Indian servers such as The Legends Roleplay (TLRP), The Western Roleplay (TWRP), and many others</p>
   <p align="center">🤝 Open to collaborations and providing assistance where needed</p>
-  <p align="center">🔧 Former Member of the QBCore Development Team</p>
-  <p align="center">🌐 Creator of <a href="https://github.com/TeamBroCode"> Bro Code</p>
+  <p align="center">🔧 A former member of the development team for QBCore</p>
+  <p align="center">🌐 Founder of <a href="https://github.com/TeamBroCode"> Bro Code</p>
   <p align="center">📡 Connect with us on Discord: <a href="https://discord.gg/brocode"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="20" width="20" align="center">Bro Code Discord</a></p>
 
   ---
