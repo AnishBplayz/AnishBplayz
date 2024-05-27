@@ -12,12 +12,12 @@
 
   ---
 
-  <h3 align="center">Current Projects</h3>
+  <h3 align="center">Work Profile</h3>
   
-  <p align="center">🚀 Working on personal projects and making contributions to popular Indian servers such as The Legends Roleplay (TLRP), The Western Roleplay (TWRP), and many others</p>
+  <p align="center">🚀 Working on personal projects and making contributions to popular FiveM and RedM servers such as <a href="https://discord.gg/kudosrp"> Kudos Roleplay</a>, <a href="https://discord.gg/summitrp">Summit Roleplay</a>, The Western Roleplay (TWRP India) and many others</p>
   <p align="center">🤝 Open to collaborations and providing assistance where needed</p>
-  <p align="center">🔧 A former member of the development team for QBCore</p>
-  <p align="center">🌐 Founder of <a href="https://github.com/TeamBroCode"> Bro Code</p>
+  <p align="center">🔧 A former member of the Development Team of <a href="https://discord.gg/qbcore">QBCore</p>
+  <p align="center">🌐 Founder of <a href="https://github.com/TeamBroCode"> Bro Code </a></p>
   <p align="center">📡 Connect with us on Discord: <a href="https://discord.gg/brocode"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="20" width="20" align="center">Bro Code Discord</a></p>
 
   ---
