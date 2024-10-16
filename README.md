@@ -14,7 +14,7 @@
 
   <h3 align="center">Work Profile</h3>
   
-  <p align="center">🚀 Working on personal projects and making contributions to popular FiveM and RedM servers such as <a href="https://discord.gg/kudosrp"> Kudos Roleplay</a>, <a href="https://discord.gg/summitrp">Summit Roleplay</a>, The Western Roleplay (TWRP India) and many others</p>
+  <p align="center">🚀 Working on personal projects and making contributions to popular FiveM and RedM servers such as <a href="https://discord.gg/kudosrp"> Kudos Roleplay</a>, <a href="https://discord.gg/summitrp">Summit Roleplay</a>, <a href="https://discord.gg/htrpgg">Hydra Town Roleplay</a>, The Western Roleplay (TWRP India), and many others</p>
   <p align="center">🤝 Open to collaborations and providing assistance where needed</p>
   <p align="center">🔧 A former member of the Development Team of <a href="https://discord.gg/qbcore">QBCore</p>
   <p align="center">🌐 Founder of <a href="https://github.com/TeamBroCode"> Bro Code </a></p>
@@ -25,7 +25,7 @@
   <h3 align="center">Skills</h3>
   
   <p align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" alt="LUA" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="LUA" height="40">
     <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" alt="HTML5" height="40">
     <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" alt="CSS3" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40">
@@ -44,7 +44,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React.js" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" alt="TypeScript" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" alt="Svelte" height="40">
   </p>
 
   ---
@@ -60,9 +60,7 @@
   <h3 align="center">Connect with Me</h3>
 
   <p align="center">
-    <a href="https://twitter.com/anishbhutra" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40"></a>
     <a href="https://discord.gg/brocode" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40"></a>
-    <a href="https://www.linkedin.com/in/christian-bennett-4a79a3191/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" height="30" width="40"></a>
   </p>
 
   ---
