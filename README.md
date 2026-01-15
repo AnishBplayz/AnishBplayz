@@ -36,7 +36,6 @@
     <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" alt="CSS3" height="40" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" width="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" height="40" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React.js" height="40" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" alt="Next.js" height="40" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" width="40">
